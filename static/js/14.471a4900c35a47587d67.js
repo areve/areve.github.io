@@ -1,2 +1,0 @@
-webpackJsonp([14],{c27y:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var i={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var t=this.$createElement,e=this._self._c||t;return e("section",[e("h1",[this._v("About")]),this._v(" "),e("p",[this._v("What is it about?")])])}]};var s=n("VU/8")({name:"About",data:function(){return{}}},i,!1,function(t){n("dSkq")},"data-v-6b97e085",null);e.default=s.exports},dSkq:function(t,e){}});
-//# sourceMappingURL=14.471a4900c35a47587d67.js.map
